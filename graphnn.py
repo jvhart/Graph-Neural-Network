@@ -260,6 +260,10 @@ class GraphNeuralNet:
         print('Does this version control work?')
         return self
 
+    def another_update_check(self):
+        print('Does this version control work now?')
+        return self
+
 
 
 
