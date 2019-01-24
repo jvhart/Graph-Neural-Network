@@ -255,10 +255,6 @@ class GraphNeuralNet:
         self.labeled = self.output_neurons
 
         return self
-    
-    def update_check(self):
-        print('Does this version control work?')
-        return self
 
     def another_update_check(self):
         print('Does this version control work now?')
